@@ -5,13 +5,13 @@
 ---
 
 ## 📌 Table of Contents
-- [Overview](#Overview)
+- [Overview](#overview)
 - [Target Audience](#who-is-the-target-audience)
 - [Project Goals](#project-goals)
-- [Tools & Technologies](#tools-&-technologies)
-- [ETL Process in SQL Server](#🧩-etl-process-in-sql-server)
-- [Dashboard Preview](#Dashboard-Preview)
-- [Key Outcomes](#Key-Outcomes)
+- [Tools & Technologies](#tools-and-technologies)
+- [ETL Process in SQL Server](#etl-process-in-sql-server)
+- [Dashboard Preview](#dashboard-preview)
+- [Key Outcomes](#key-outcomes)
 - [Author & Contact](#author--contact)
   
 ---
@@ -56,7 +56,7 @@
 
 ---
 
-## 🧩 ETL Process in SQL Server
+## ETL Process in SQL Server
 
 The first step in the **Customer Churn Analysis** project is to perform the **ETL (Extract, Transform, Load)** process using **Microsoft SQL Server**.  
 This allows efficient handling of large customer datasets, ensures data integrity, and prepares the foundation for analysis in **Power BI** and **Python**.
