@@ -7,9 +7,9 @@
 ## 📌 Table of Contents
 - [Overview](#Overview)
 - [Target Audience](#who-is-the-target-audience)
-- [Project Goals](#Project-Goals)
-- [Tools & Technologies](#Tools-&-Technologies)
-- [ETL Process in SQL Server](#ETL-Process-in-SQL-Server)
+- [Project Goals](#project-goals)
+- [Tools & Technologies](#tools-&-technologies)
+- [ETL Process in SQL Server](#🧩-etl-process-in-sql-server)
 - [Dashboard Preview](#Dashboard-Preview)
 - [Key Outcomes](#Key-Outcomes)
 - [Author & Contact](#author--contact)
