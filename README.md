@@ -1,6 +1,6 @@
 # Introduction to Churn Analysis
 
-<em>Analyzing customer behavior and churn patterns to enhance retention strategies and business performance using SQL, Python, and Power BI..</em>
+<em>Analyzing customer behavior and churn patterns to enhance retention strategies and business performance using SQL, Python, Power BI and Prediction Modeling.</em>
 
 ---
 
@@ -11,8 +11,7 @@
 - [Tools & Technologies](#tools-and-technologies)
 - [ETL Process in SQL Server](#etl-process-in-sql-server)
 - [Dashboard Preview](#dashboard-preview)
-- [Key Outcomes](#key-outcomes)
-- [Author & Contact](#author--contact)
+- [Author & Contact](#author-and-contact)
   
 ---
 
@@ -239,5 +238,33 @@ This allows efficient handling of large customer datasets, ensures data integrit
   <h4>Outcomes</h4>
   <em> The ETL process prepares a clean, production-ready dataset in SQL Server that can be directly connected to Power BI for visualization and analysis, or exported to Python for advanced modeling.</em>
 ---
+
+## Dashboard Preview 
+`Below is a preview of the Power BI dashboard showing the churn insights & prediction:`
+> 📁 Live-Dashboard: [`Churn_Analysis.pbix`](https://app.powerbi.com/view?r=eyJrIjoiYjI5MmZkMjUtY2Y0Yi00YTc3LTg4ZjktYzcwYTExYzIwNzBjIiwidCI6IjQyYjUxMzUzLTZhMzctNDA5Zi1hMmZlLTc3OGE5YmUzMTllNCJ9)
+<div>
+  <img width="1152" height="646" alt="Image" src="https://github.com/user-attachments/assets/6990016b-f57e-47e8-8e3a-a2d0fe01f285" />
+
+<img width="1155" height="651" alt="Image" src="https://github.com/user-attachments/assets/b7b9b545-75f5-4bc2-a457-cac1fe3eb23f" />
+
+<img width="1220" height="643" alt="Image" src="https://github.com/user-attachments/assets/d25c3827-148f-4ec1-9992-7091c6b66204" />
+</div>
+
+---
+
+## Author & Contact
+
+**Faisal Khan**  
+*Data Analyst | Aspiring Data Scientist*
+
+For any questions, collaboration opportunities, or project-related inquiries, feel free to reach out:
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=google-chrome&logoColor=white)](https://personal-portfolio-alpha-lake.vercel.app/)<br>
+[![Email](https://img.shields.io/badge/Email-Faisal%20Khan-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thisside.faisalkhan@example.com)<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Faisal%20Khan-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faisal-khan23)
+
+---
+> Made with ❤️ using Jupyter Notebook, Python, SQL & Power BI.
+
 
     
